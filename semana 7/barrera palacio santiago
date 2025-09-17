@@ -1,10 +1,10 @@
 pregunta #1: si una computadora tiene un procesador,una memoria ram y un disco duro¿que tipo de relacion es?
 R: el procesador tiebne con objetivo discernir la informacion y eso pasa a la ram para guardarlos al mismo tienpo al disco duro para tener un respaldo en caso de que se borre la informacion o esten violando los protocolos de seguridad
-pregunta #2:¿que es un algoritmo que es entiende por entrada 
-R
+pregunta #2: en un algoritmo que es entiende por entrada 
+R:la entrada se refiere a los datos o ingredientes iniciales que el algoritmo necesita para comenzar su ejecucion 
 prgunta #3: si un algoritmo esta diseñado para resolver un problema de suma ¿ que seria la entrada y la salida?
-R
-pregunta#4: como molderia un auto poo?
-R
+R:la entrada seria los numeros quese van a sumar,y la salida seria el resultado de la suma 
+pregunta#4: como molderia un auto con poo?
+R:como un objeto de la clase "auto" sus atributos(datos) serian "color" "marca" "modelo" y "velocidad" sus metodos (comportamientos)seian "acelerar "frenar" y encender
 pregunta#5: un semaforo tiene tres estados amarillo,rojo y verde como molderias sus comportamiento usando poo?
-R
+R:usando cambiar luz con polimorfismo (o una maquina de estados)cada vez que se llama,la logica interna del metodo determina a que color debe cambiar 
